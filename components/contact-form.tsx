@@ -100,7 +100,7 @@ export function ContactForm() {
               name="phone"
               value={formData.phone}
               onChange={handleChange}
-              placeholder="+1 (555) 123-4567"
+              placeholder="+254 7 123-4567"
               className="w-full rounded-lg border border-border bg-background px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-accent"
             />
           </div>
