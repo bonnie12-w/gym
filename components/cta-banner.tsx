@@ -11,7 +11,7 @@ export function CTABanner() {
               Ready to Transform?
             </h2>
             <p className="mx-auto max-w-2xl text-lg text-accent-foreground/90">
-              Join FitElite today and get a free 1-on-1 consultation with our expert trainers. Start your
+              Join Golden gym today and get a free 1-on-1 consultation with our expert trainers. Start your
               transformation journey now!
             </p>
 
