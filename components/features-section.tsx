@@ -29,7 +29,7 @@ export function FeaturesSection() {
       <div className="mx-auto max-w-7xl px-4">
         <div className="space-y-12">
           <div className="space-y-4 text-center">
-            <h2 className="text-3xl font-bold md:text-4xl lg:text-5xl">Why Choose FitElite</h2>
+            <h2 className="text-3xl font-bold md:text-4xl lg:text-5xl">Why Choose Golden gym</h2>
             <p className="mx-auto max-w-2xl text-lg text-muted-foreground">
               Everything you need to achieve your fitness goals and maintain a healthy lifestyle.
             </p>
