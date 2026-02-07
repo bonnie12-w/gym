@@ -13,9 +13,9 @@ const geist = Geist({ subsets: ["latin"] })
 const geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'Golden gym- Premium Gym & Fitness Training',
+  title: 'Ultra fit- Premium Gym & Fitness Training',
   description:
-    'Transform your body and mind with Golden gym. Professional trainers, state-of-the-art facilities, and personalized fitness programs.',
+    'Transform your body and mind with Ultra fit. Professional trainers, state-of-the-art facilities, and personalized fitness programs.',
 }
 
 export default function RootLayout({
