@@ -13,9 +13,9 @@ export function Footer() {
           <div className="space-y-4 lg:col-span-2">
             <div className="flex items-center gap-2">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
-                <span className="font-bold text-accent-foreground">U</span>
+                <span className="font-bold text-accent-foreground">B</span>
               </div>
-              <span className="font-bold text-lg">Ultra.fit.</span>
+              <span className="font-bold text-lg">Bodyfit.Gym.</span>
             </div>
             <p className="text-muted-foreground">
               Transform your body and mind with Ultra training, expert guidance, and a supportive community.
@@ -102,16 +102,16 @@ export function Footer() {
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone size={16} />
                 <Link href="tel:+1234567890" className="transition-colors hover:text-foreground">
-                  +1 (234) 567-890
+                  +254 7 567-890
                 </Link>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail size={16} />
                 <Link
-                  href="mailto:info@Ultrafit.com"
+                  href="mailto:info@bodyfit.com"
                   className="transition-colors hover:text-foreground"
                 >
-                  info@Ultrafit.com
+                  info@bodyfit.com
                 </Link>
               </li>
             </ul>
@@ -122,7 +122,7 @@ export function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-border py-6">
         <div className="mx-auto max-w-7xl px-4 text-center text-sm text-muted-foreground">
-          <p>&copy; {currentYear} ultrafit. All rights reserved.</p>
+          <p>&copy; {currentYear} bodyfit. All rights reserved.</p>
         </div>
       </div>
     </footer>
