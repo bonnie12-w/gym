@@ -63,8 +63,8 @@ export default function ContactPage() {
                     <div className="space-y-1">
                       <h3 className="font-bold">Email</h3>
                       <p className="text-sm text-muted-foreground">
-                        <a href="mailto:info@bodyfit.com" className="hover:text-accent transition-colors">
-                          info@bodyfit.com
+                        <a href="mailto:info@rdfrongai.com" className="hover:text-accent transition-colors">
+                          info@rdfrongai.com
                         </a>
                       </p>
                     </div>
