@@ -13,9 +13,9 @@ export function Footer() {
           <div className="space-y-4 lg:col-span-2">
             <div className="flex items-center gap-2">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
-                <span className="font-bold text-accent-foreground">B</span>
+                <span className="font-bold text-accent-foreground">R</span>
               </div>
-              <span className="font-bold text-lg">Bodyfit.Gym.</span>
+              <span className="font-bold text-lg">RDF.Gym.</span>
             </div>
             <p className="text-muted-foreground">
               Transform your body and mind with Ultra training, expert guidance, and a supportive community.
@@ -108,10 +108,10 @@ export function Footer() {
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail size={16} />
                 <Link
-                  href="mailto:info@bodyfit.com"
+                  href="mailto:info@RDFrongai.com"
                   className="transition-colors hover:text-foreground"
                 >
-                  info@bodyfit.com
+                  info@RDFrongai.com
                 </Link>
               </li>
             </ul>
@@ -122,7 +122,7 @@ export function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-border py-6">
         <div className="mx-auto max-w-7xl px-4 text-center text-sm text-muted-foreground">
-          <p>&copy; {currentYear} bodyfit. All rights reserved.</p>
+          <p>&copy; {currentYear} RDF.fit. All rights reserved.</p>
         </div>
       </div>
     </footer>
