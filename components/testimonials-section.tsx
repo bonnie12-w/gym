@@ -12,7 +12,7 @@ export function TestimonialsSection() {
       name: 'Michael Johnson',
       role: 'Software Engineer',
       content:
-        'Ultra fit completely transformed my fitness journey. The trainers are knowledgeable and motivating, and I\'ve never felt better.',
+        'Bodyfit gym completely transformed my fitness journey. The trainers are knowledgeable and motivating, and I\'ve never felt better.',
       rating: 5,
       image: 'MJ',
     },
