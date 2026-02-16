@@ -33,7 +33,7 @@ export default function ContactPage() {
                         <br />
                         Gym City, GC 12345
                         <br />
-                        United States
+                        Kenya
                       </p>
                     </div>
                   </div>
@@ -48,7 +48,7 @@ export default function ContactPage() {
                       <h3 className="font-bold">Phone</h3>
                       <p className="text-sm text-muted-foreground">
                         <a href="tel:+1234567890" className="hover:text-accent transition-colors">
-                          +1 (234) 567-890
+                          +254 7 567-890
                         </a>
                       </p>
                     </div>
@@ -63,8 +63,8 @@ export default function ContactPage() {
                     <div className="space-y-1">
                       <h3 className="font-bold">Email</h3>
                       <p className="text-sm text-muted-foreground">
-                        <a href="mailto:info@fitelite.com" className="hover:text-accent transition-colors">
-                          info@fitelite.com
+                        <a href="mailto:info@bodyfit.com" className="hover:text-accent transition-colors">
+                          info@bodyfit.com
                         </a>
                       </p>
                     </div>
