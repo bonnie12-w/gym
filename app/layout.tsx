@@ -13,7 +13,7 @@ const geist = Geist({ subsets: ["latin"] })
 const geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'Body fit- Premium Gym & Fitness Training',
+  title: 'RDF rongai- Premium Gym & Fitness Training',
   description:
     'Transform your body and mind with Body fit. Professional trainers, state-of-the-art facilities, and personalized fitness programs.',
 }
